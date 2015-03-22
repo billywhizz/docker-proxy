@@ -1,1 +1,1 @@
-docker save alpine/proxy | gzip > alpine-proxy.tar.gz
+docker save $1 | gzip > $2.tar.gz

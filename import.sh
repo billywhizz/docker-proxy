@@ -1,1 +1,1 @@
-docker load -i alpine-proxy.tar.gz
+docker load -i $1.tar.gz
