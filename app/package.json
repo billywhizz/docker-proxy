@@ -9,7 +9,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "forever": "",
-    "minode": ""
+    "forever": "0.14.1",
+    "minode": "0.1.5"
   }
 }
